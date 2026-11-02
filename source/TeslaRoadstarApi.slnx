@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TeslaRoadstarApi/TeslaRoadstarApi.csproj" />
+  <Project Path="UnitTestsProject/UnitTestsProject.csproj" Id="4d332158-27b4-4c28-a16e-6a707441a33d" />
+</Solution>
